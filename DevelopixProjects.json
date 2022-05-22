@@ -50,8 +50,8 @@
     "thebestlanguage" : {
         "title"  : "بهترین زبان برنامه‌نویسی",
         "link"   : "https://thebestlanguage.ir",
-        "colors" : [ "#0288D1", "#B3E5FC" ],
-        "status" : false
+        "colors" : [ "#00695C", "#4DB6AC" ],
+        "status" : true
     },
     "dontasktoask" : {
         "title"  : "نپرس که بپرسم، فقط بپرس",
