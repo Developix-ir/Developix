@@ -1,68 +1,79 @@
 {
     "ronio" : {
-        "title"  : "رونیو",
-        "link"   : "https://ronio.ir",
-        "colors" : [ "#E91E63", "#AB47BC" ],
-        "status" : true
+        "title"    : "رونیو",
+        "title_en" : "Ronio",
+        "link"     : "https://ronio.ir",
+        "colors"   : [ "#E91E63", "#AB47BC" ],
+        "status"   : true
     },
     "codilo" : {
-        "title"  : "کدیلو",
-        "link"   : "https://codilo.ir",
-        "colors" : [ "#B71C1C", "#EF9A9A" ],
-        "status" : true
+        "title"    : "کدیلو",
+        "title_en" : "Codilo",
+        "link"     : "https://codilo.ir",
+        "colors"   : [ "#B71C1C", "#EF9A9A" ],
+        "status"   : true
     },
     "projino" : {
-        "title"  : "پروژینو",
-        "link"   : "https://projino.ir",
-        "colors" : [ "#9FA8DA", "#1A237E" ],
-        "status" : false
+        "title"    : "پروژینو",
+        "title_en" : "Projino",
+        "link"     : "https://projino.ir",
+        "colors"   : [ "#9FA8DA", "#1A237E" ],
+        "status"   : false
     },
     "smusher" : {
-        "title"  : "اسموشر",
-        "link"   : "https://smusher.ir",
-        "colors" : [ "#F44336", "#3F51B5" ],
-        "status" : true
+        "title"    : "اسموشر",
+        "title_en" : "Smusher",
+        "link"     : "https://smusher.ir",
+        "colors"   : [ "#F44336", "#3F51B5" ],
+        "status"   : true
     },
     "filito" : {
-        "title"  : "فایلیتو",
-        "link"   : "https://filito.ir",
-        "colors" : [ "#B71C1C", "#FFC107" ],
-        "status" : true
+        "title"    : "فایلیتو",
+        "title_en" : "Filito",
+        "link"     : "https://filito.ir",
+        "colors"   : [ "#B71C1C", "#FFC107" ],
+        "status"   : true
     },
     "htmhell" : {
-        "title"  : "جهنم وب",
-        "link"   : "https://htmhell.ir",
-        "colors" : [ "#263238", "#B0BEC5" ],
-        "status" : true
+        "title"    : "جهنم وب",
+        "title_en" : "HTMHell",
+        "link"     : "https://htmhell.ir",
+        "colors"   : [ "#263238", "#B0BEC5" ],
+        "status"   : true
     },
     "nojquery" : {
-        "title"  : "جی‌کوئری لازم نیست",
-        "link"   : "https://nojquery.ir",
-        "colors" : [ "#0D47A1", "#42A5F5" ],
-        "status" : true
+        "title"    : "جی‌کوئری لازم نیست",
+        "title_en" : "No JQuery",
+        "link"     : "https://nojquery.ir",
+        "colors"   : [ "#0D47A1", "#42A5F5" ],
+        "status"   : true
     },
     "theperfectsite" : {
-        "title"  : "بهترین سایت دنیا",
-        "link"   : "https://theperfectsite.ir",
-        "colors" : [ "#9E9D24", "#E6EE9C" ],
-        "status" : true
+        "title"    : "بهترین سایت دنیا",
+        "title_en" : "The Perfect Site",
+        "link"     : "https://theperfectsite.ir",
+        "colors"   : [ "#9E9D24", "#E6EE9C" ],
+        "status"   : true
     },
     "thebestlanguage" : {
-        "title"  : "بهترین زبان برنامه‌نویسی",
-        "link"   : "https://thebestlanguage.ir",
-        "colors" : [ "#00695C", "#4DB6AC" ],
-        "status" : true
+        "title"    : "بهترین زبان برنامه‌نویسی",
+        "title_en" : "The Best Language",
+        "link"     : "https://thebestlanguage.ir",
+        "colors"   : [ "#00695C", "#4DB6AC" ],
+        "status"   : true
     },
     "dontasktoask" : {
-        "title"  : "نپرس که بپرسم، فقط بپرس",
-        "link"   : "https://dontasktoask.ir",
-        "colors" : [ "#c2185b", "#f48fb1" ],
-        "status" : true
+        "title"    : "نپرس که بپرسم، فقط بپرس",
+        "title_en" : "Don't Ask To Ask",
+        "link"     : "https://dontasktoask.ir",
+        "colors"   : [ "#c2185b", "#f48fb1" ],
+        "status"   : true
     },
     "developix" : {
-        "title"  : "مجموعه دولوپیکس",
-        "link"   : "https://developix.ir",
-        "colors" : [ "#006064", "#81d4fa" ],
-        "status" : true
+        "title"    : "مجموعه دولوپیکس",
+        "title_en" : "Developix",
+        "link"     : "https://developix.ir",
+        "colors"   : [ "#006064", "#81d4fa" ],
+        "status"   : true
     }
 }
