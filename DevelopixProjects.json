@@ -79,6 +79,22 @@
         "colors"   : [ "#c2185b", "#f48fb1" ],
         "status"   : true
     },
+    "pixoro" : {
+        "title"    : "پیکسورو",
+        "title_en" : "Pixoro",
+        "link"     : "https://pixoro.ir",
+        "link_en"  : "https://pixoro.ir/en",
+        "colors"   : [ "#EE5CC1", "#72E5F7" ],
+        "status"   : true
+    },
+    "urixo" : {
+        "title"    : "یوریکسو",
+        "title_en" : "Urixo",
+        "link"     : "https://urixo.ir",
+        "link_en"  : "https://urixo.ir",
+        "colors"   : [ "#04DFBA", "#509BD4" ],
+        "status"   : true
+    },
     "developix" : {
         "title"    : "مجموعه دولوپیکس",
         "title_en" : "Developix",
