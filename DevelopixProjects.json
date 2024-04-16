@@ -95,6 +95,14 @@
         "colors"   : [ "#04DFBA", "#509BD4" ],
         "status"   : true
     },
+    "qiblafinder" : {
+        "title"    : "قبله نما آنلاین",
+        "title_en" : "Online Qibla Finder",
+        "link"     : "https://qiblafind.net/fa/qibla-finder",
+        "link_en"  : "https://qiblafind.net",
+        "colors"   : [ "#1E88E5", "#42A5F5" ],
+        "status"   : true
+    },
     "developix" : {
         "title"    : "مجموعه دولوپیکس",
         "title_en" : "Developix",
