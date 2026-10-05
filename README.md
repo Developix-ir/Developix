@@ -5,7 +5,6 @@ Web tools and projects in the Developix registry:
 | Project | Persian name | Registry status |
 | --- | --- | --- |
 | [Ronio](https://ronio.ir/en) | رونیو | Active |
-| [Codilo](https://codilo.ir) | کدیلو | Active |
 | [Smusher](https://smusher.ir/en) | اسموشر | Active |
 | [Filito](https://filito.ir/en) | فایلیتو | Active |
 | [HTMHell](https://htmhell.ir) | جهنم وب | Active |

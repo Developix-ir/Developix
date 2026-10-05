@@ -7,14 +7,6 @@
         "colors"   : [ "#E91E63", "#AB47BC" ],
         "status"   : true
     },
-    "codilo" : {
-        "title"    : "کدیلو",
-        "title_en" : "Codilo",
-        "link"     : "https://codilo.ir",
-        "link_en"  : "https://codilo.ir",
-        "colors"   : [ "#B71C1C", "#EF9A9A" ],
-        "status"   : true
-    },
     "smusher" : {
         "title"    : "اسموشر",
         "title_en" : "Smusher",
