@@ -98,9 +98,25 @@
     "qiblafinder" : {
         "title"    : "قبله نما آنلاین",
         "title_en" : "Online Qibla Finder",
-        "link"     : "https://qiblafind.net/fa/qibla-finder",
+        "link"     : "https://qiblafind.net/fa",
         "link_en"  : "https://qiblafind.net",
         "colors"   : [ "#1E88E5", "#42A5F5" ],
+        "status"   : true
+    },
+    "onlinecompass" : {
+        "title"    : "قطب‌نما آنلاین",
+        "title_en" : "OnlineCompass",
+        "link"     : "https://onlinecompass.lol/",
+        "link_en"  : "https://onlinecompass.lol/",
+        "colors"   : [ "#2563EB", "#F97316" ],
+        "status"   : true
+    },
+    "twitterdownloader" : {
+        "title"    : "دانلود ویدیو از توییتر",
+        "title_en" : "Twitter Video Downloader",
+        "link"     : "https://twitterdownloader.lol/fa",
+        "link_en"  : "https://twitterdownloader.lol/",
+        "colors"   : [ "#1DA1F2", "#0F1419" ],
         "status"   : true
     },
     "developix" : {
