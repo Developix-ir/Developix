@@ -15,14 +15,6 @@
         "colors"   : [ "#B71C1C", "#EF9A9A" ],
         "status"   : true
     },
-    "projino" : {
-        "title"    : "پروژینو",
-        "title_en" : "Projino",
-        "link"     : "https://projino.ir",
-        "link_en"  : "https://projino.ir",
-        "colors"   : [ "#9FA8DA", "#1A237E" ],
-        "status"   : false
-    },
     "smusher" : {
         "title"    : "اسموشر",
         "title_en" : "Smusher",
